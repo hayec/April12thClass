@@ -1,0 +1,26 @@
+Unrestricted Elective RSA Encryption of Passwords
+Physical Education
+Laboratory Science Elective
+Social Sciences Elective
+Mathematics Elective
+Mathematics or Science Elective
+History Elective
+Humanities Elective
+Mathematics/Science Elective
+Business Elective
+English Elective
+Communications Elective
+Philosophy Elective
+Communication Elective
+American History Elective
+Foreign Language
+Math Elective
+Lab Science Elective
+
+https://lighthouse.sunysuffolk.edu/pls/prod/bwckschd.p_disp_detail_sched?term_in=201609&crn_in=90002 -->
+https://lighthouse.sunysuffolk.edu/pls/prod/bwckschd.p_disp_detail_sched?term_in=201609&crn_in=95049
+
+USE THIS https://lighthouse.sunysuffolk.edu/pls/prod/bwckctlg.p_display_courses?term_in=201602&one_subj=CIN&sel_crse_strt=242&sel_crse_end=242&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=
+
+Use authentication
+Check campuses
